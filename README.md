@@ -1,4 +1,5 @@
 # ikea_Ramadan_season
+![image](https://user-images.githubusercontent.com/96576491/151811589-4214d6db-c38f-4d3b-87f0-1f0c026c4af5.png)
 
 Exploratory Analysis
 
